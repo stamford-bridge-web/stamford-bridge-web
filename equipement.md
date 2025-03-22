@@ -18,6 +18,6 @@ L'irritation unanime des commentateurs modernes sur ce point provient essentiell
 * **L'armure:** Ce que nous appelons "armure" est en réalité une broigne ("brynja"), une protection rudimentaire qui pouvait être faite d'anneaux de métal ("hringbrynja", on voit bien ici le "ring", anneau en anglais moderne) à l'instar d'une cotte de mailles. Contrairement aux housecarles par exemple, dotés d'une longue cotte de maille fendue pour leur permettre de monter à cheval, les Vikings ne semble pas avoir beaucoup appréciés la broigne, qui fut peu répandue, bien que certaines sagas la mentionne. La cuirasse ("treyja") en cuir, plus rudimentaire, a aussi pu être en usage avant la broigne.  
 ***     
 ### Bibliographie
-- Régis Boyer, *Les Vikings, Histoire, mythes, dictionnaire* Bouquins
-- Régis Boyer, *Les Vikings* tempus
+- Régis Boyer, *Les Vikings, Histoire, mythes, dictionnaire*, Bouquins
+- Régis Boyer, *Les Vikings*, tempus
 - Régis Boyer, *L'Islande médiévale*, Guide Belles-Lettres des civilisations
