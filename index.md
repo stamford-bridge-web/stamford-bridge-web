@@ -6,7 +6,7 @@ title: Stamford Bridge
 Stamford Bridge Web est un site destiné à recueillir, compiler et publier des informations au sujet de la bataille de Stamford Bridge, un évènement peu connu mais qui a bouleversé le cours de l'Histoire médiévale et européenne.
 
 ### La bataille
-[Description de la bataille de Stamford Bridge] (./the_battle)
+[Description de la bataille de Stamford Bridge](./the_battle)
 
 ### Informations
 [L'armement viking](./equipement)
