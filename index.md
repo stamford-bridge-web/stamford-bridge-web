@@ -6,5 +6,5 @@ Stamford Bridge Web est un site destiné à recueillir, compiler et publier des 
 ### Informations
 [L'armement viking](./equipement)
 
+<script async defer src="https://app-tianji.msgbyte.com/tracker.js" data-website-id="cm8lnk91r2s2et5pse4oyzhz9"></script>
 
-{% include ./analytics.html %}
