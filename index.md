@@ -5,3 +5,6 @@ Stamford Bridge Web est un site destiné à recueillir, compiler et publier des 
 
 ### Informations
 [L'armement viking](./equipement)
+
+
+{% include analytics.html %}
