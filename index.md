@@ -8,6 +8,8 @@ Stamford Bridge Web est un site destiné à recueillir, compiler et publier des 
 ### La bataille
 [Description de la bataille de Stamford Bridge](./the_battle)
 
+[Les conséquences de la bataille](./consequences)
+
 ### Informations
 [L'armement viking](./equipement)
 
